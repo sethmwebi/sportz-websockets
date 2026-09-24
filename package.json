@@ -20,6 +20,7 @@
     "express": "^5.2.1",
     "pg": "^8.23.0",
     "postgres": "^3.4.9",
+    "ws": "^8.21.3",
     "zod": "^4.6.5"
   },
   "devDependencies": {
